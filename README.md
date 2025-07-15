@@ -139,7 +139,7 @@ No external libraries beyond the C++17 STL are required.
 
 Happy borrowing!
 
-<div style="text-align: center">⁂</div>
+
 
 [^1]: Library.cpp
 
